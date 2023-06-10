@@ -9,21 +9,22 @@ public class Hittool : MonoBehaviour
     void Update()
     {
        
-        if (Input.GetMouseButtonDown(0)&&count==0)//ÁÂÅ¬¸¯ ÇÏ¸é
+        if (Input.GetMouseButtonDown(0)&&count ==0)//ÁÂÅ¬¸¯ ÇÏ¸é
         {
             transform.Rotate(0, 0, -80);
-            count++; 
+            count++;
+            Debug.Log("1");
         }
-        /*if (totalTime > 1)
+        if (totalTime > 1 &&count==1)
         {
             totalTime -= Time.deltaTime;
-            Debug.Log(totalTime);
-            if(totalTime < 1)
+            //Debug.Log(totalTime);
+            if (totalTime < 1)
             {
                 transform.Rotate(0, 0, +80);
                 totalTime = 3;
                 count--;
             }
-        }*/
+        }
     }
 }

@@ -40,7 +40,7 @@ public class move : MonoBehaviour
         transform.Translate(new Vector3(moveX, moveZ, 0f) * 0.1f);//움직임 매끄럽게하기 위해 float를 사용
 
         Debug.DrawRay(transform.position, new Vector3(0,-1, 0) * 3f, new Color(0, 1, 0)); // 레이케스트 그리는 함수
-        if (Input.GetMouseButtonDown(0) && count <=0)//좌클릭 하면
+        if (Input.GetMouseButtonDown(0)&& count ==0)//좌클릭 하면
         {
             count++;
             
@@ -52,16 +52,13 @@ public class move : MonoBehaviour
             if (hit.collider != null)
             {
                 Debug.Log(hit.collider.name);
-               // Destroy(hit.collider.gameObject);//삭제 함수 나중에 Damage()함수 만들어 넣으면 될듯
             }
         }
-        if (totaltime > 1)
+        if (totaltime > 1&&count ==1)
         {
             totaltime -= Time.deltaTime;
-            Debug.Log(totaltime);
-            Debug.Log(count);
 
-            if (totaltime < 1 && count <= 0)
+            if (totaltime < 1)
             {
                 totaltime = 3;
                 count--;
