@@ -443,8 +443,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"Jump","value":{"$content":4.782431,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"Jump","value":{"$content":4.782431,"$type":"System.Single"},"$version":"A"},{"name":"Block","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1681964530}
 --- !u!50 &1536534693
 Rigidbody2D:
   serializedVersion: 4
@@ -525,7 +526,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1536534687}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.54, y: 0.55, z: 0}
+  m_LocalPosition: {x: -0.469, y: 0.519, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 195597925}
@@ -543,7 +544,7 @@ GameObject:
   - component: {fileID: 1553204131}
   - component: {fileID: 1553204130}
   - component: {fileID: 1553204129}
-  m_Layer: 7
+  m_Layer: 6
   m_Name: Single (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -652,7 +653,7 @@ GameObject:
   - component: {fileID: 1681964533}
   - component: {fileID: 1681964532}
   - component: {fileID: 1681964531}
-  m_Layer: 7
+  m_Layer: 6
   m_Name: Single
   m_TagString: Untagged
   m_Icon: {fileID: 0}
