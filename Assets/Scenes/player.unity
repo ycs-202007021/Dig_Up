@@ -443,7 +443,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"Jump","value":{"$content":4.782431,"$type":"System.Single"},"$version":"A"},{"name":"Block","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"Jump","value":{"$content":4.782431,"$type":"System.Single"},"$version":"A"},{"name":"Block","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Pickaxe","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Sword","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"InstallBlock","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1681964530}
 --- !u!50 &1536534693
@@ -526,7 +526,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1536534687}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.469, y: 0.519, z: 0}
+  m_LocalPosition: {x: -0.52, y: 0.74, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 195597925}
