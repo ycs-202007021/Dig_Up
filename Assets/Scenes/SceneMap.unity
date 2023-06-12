@@ -504,7 +504,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"UpSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"DownSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"LeftSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"RightSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"UpSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"DownSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"LeftSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"RightSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"LineCount","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!1 &1394225059
 GameObject:
@@ -663,7 +663,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"UpSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"DownSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"LeftSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"RightSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"UpSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"DownSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"LeftSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"RightSide","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"LineCount","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!1 &2112320318
 GameObject:
