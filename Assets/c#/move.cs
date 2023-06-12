@@ -38,8 +38,8 @@ public class move : MonoBehaviour
             moveX += 0.2f;
         }
         transform.Translate(new Vector3(moveX, moveZ, 0f) * 0.1f);//움직임 매끄럽게하기 위해 float를 사용
-
         Debug.DrawRay(transform.position, new Vector3(0,-1, 0) * 3f, new Color(0, 1, 0)); // 레이케스트 그리는 함수
+
         if (Input.GetMouseButtonDown(0)&& count ==0)//좌클릭 하면
         {
             count++;
@@ -54,6 +54,7 @@ public class move : MonoBehaviour
                 Debug.Log(hit.collider.name);
             }
         }
+
         if (totaltime > 1&&count ==1)
         {
             totaltime -= Time.deltaTime;
