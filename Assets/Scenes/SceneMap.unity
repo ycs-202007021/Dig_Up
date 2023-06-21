@@ -604,10 +604,10 @@ MonoBehaviour:
     - {fileID: 11400000, guid: c4ef42b5e98653749b5377edb5fb4b47, type: 2}
     - {fileID: 11400000, guid: 2a0f28742e2b7a143a72c7a9aa71cdf4, type: 2}
     - {fileID: 11400000, guid: 06ec9cfddefb60a4b91268160dc9c1be, type: 2}
+    - {fileID: 11400000, guid: 4edb6b66fa459c04997e7e29c4347976, type: 2}
     - {fileID: 11400000, guid: 486f6fab0869d94468886a4f6e42188c, type: 2}
-    - {fileID: 11400000, guid: ff7a7d95a68db3c42bb1ac96ed85b17f, type: 2}
-    - {fileID: 11400000, guid: 2fc15a0b02986b045957ae7984137d06, type: 2}
-    - {fileID: 11400000, guid: 886a5249cc086eb45ab00615cfbd5364, type: 2}
+    - {fileID: 11400000, guid: ab25ee8add13a03478d3edddf25ee2a0, type: 2}
+    - {fileID: 11400000, guid: 8d564873b4c8d06458c3b933ea7e7e73, type: 2}
     - {fileID: 2112320318}
 --- !u!4 &1126753513
 Transform:
@@ -937,6 +937,7 @@ GameObject:
   - component: {fileID: 2112320320}
   - component: {fileID: 2112320319}
   - component: {fileID: 2112320321}
+  - component: {fileID: 2112320323}
   m_Layer: 6
   m_Name: BaseBlock
   m_TagString: Map
@@ -1035,3 +1036,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &2112320323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2112320318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1465209106, guid: c8d0ad23af520fe46aabe2b1fecf6462, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Life","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
