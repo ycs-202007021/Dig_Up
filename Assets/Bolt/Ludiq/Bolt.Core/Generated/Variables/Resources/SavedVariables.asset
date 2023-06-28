@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: SavedVariables
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Flow","collection":{"$content":[{"name":"postion_count","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"warp_count","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"sword_level","value":{"$content":1,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
