@@ -24,7 +24,7 @@
 
 
 # 팀 노션
-[작업 노션](https://www.notion.so/Main-595f7cc1778747509193e9cefe198ade?pvs=4)
+[NOTION](https://www.notion.so/Main-595f7cc1778747509193e9cefe198ade?pvs=4)
 
 # 한장 기획서
 <img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/rspN4WqKX9.png">
