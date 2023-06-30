@@ -1,4 +1,4 @@
-<img src = "https://i.esdrop.com/d/f/kPk8OZq6Wq/FRIwra7RP3.png" width = "100%">
+<img src = "https://i.esdrop.com/d/f/kPk8OZq6Wq/okBK5hOAXS.jpg" width = "100%">
 
 # 개요
 인하 게임 개발 볼트 3주 프로젝트
