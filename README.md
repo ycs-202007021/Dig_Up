@@ -1,5 +1,5 @@
-# Dig_Up
-인하 게임 개발 볼트 프로젝트
+# <img src = "https://i.esdrop.com/d/f/kPk8OZq6Wq/FRIwra7RP3.png">
+인하 게임 개발 볼트 3주 프로젝트
 
 # 팀원
 * 팀장: [임정은](https://github.com/ycs-202007021)
@@ -8,6 +8,7 @@
 * 팀원: [허찬영](https://github.com/cksdud624)
 
 # 작업 계획
+약 3주간 진행하였습니다.
 날짜|설명|
 ---|---|
 6.03 ~ 6.09|기획, 에셋 검색, git 연습|
@@ -16,10 +17,10 @@
 6.24 ~ 7.01|디버그, 추가 기능 구현|
 
 # SKILL
-<img src= "https://en.wikipedia.org/wiki/Unity_%28game_engine%29">
-<img src= "https://forum.unity.com/threads/bolt-visual-scripting.482621/">
-<img src="(https://commons.wikimedia.org/wiki/File:Notion-logo.svg)">
-<img src="https://adamwreed93.medium.com/what-about-github-desktop-8c90a30a72be">
+<img src= "[https://en.wikipedia.org/wiki/Unity_%28game_engine%29](https://i.esdrop.com/d/f/kPk8OZq6Wq/2nlPhSjcab.png)">
+<img src= "[https://forum.unity.com/threads/bolt-visual-scripting.482621/](https://i.esdrop.com/d/f/kPk8OZq6Wq/LHV6ezaozO.png)">
+<img src="[(https://commons.wikimedia.org/wiki/File:Notion-logo.svg)](https://i.esdrop.com/d/f/kPk8OZq6Wq/fOdgFpG09G.png)">
+<img src="[https://adamwreed93.medium.com/what-about-github-desktop-8c90a30a72be](https://i.esdrop.com/d/f/kPk8OZq6Wq/dp4JClAlvZ.png)">
 
 
 # 팀 노션
