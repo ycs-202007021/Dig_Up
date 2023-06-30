@@ -20,7 +20,7 @@
 
 # SKILL
 <img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/2nlPhSjcab.png" width= "200px" > <img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/LHV6ezaozO.png" width= "200px"> <br>
-<img src="https://i.esdrop.com/d/f/kPk8OZq6Wq/fOdgFpG09G.png" width= "200px"> <img src="https://i.esdrop.com/d/f/kPk8OZq6Wq/dp4JClAlvZ.png" width= "200px">
+<img src="https://i.esdrop.com/d/f/kPk8OZq6Wq/fOdgFpG09G.png" width= "100px"> <img src="https://i.esdrop.com/d/f/kPk8OZq6Wq/dp4JClAlvZ.png" width= "200px">
 
 
 # 팀 노션
