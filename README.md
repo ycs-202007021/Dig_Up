@@ -19,10 +19,10 @@
 6.24 ~ 7.01|디버그, 추가 기능 구현|
 
 # SKILL
-<img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/2nlPhSjcab.png">
-<img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/LHV6ezaozO.png">
-<img src="https://i.esdrop.com/d/f/kPk8OZq6Wq/fOdgFpG09G.png">
-<img src="https://i.esdrop.com/d/f/kPk8OZq6Wq/dp4JClAlvZ.png">
+<img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/2nlPhSjcab.png" width= "30px" >
+<img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/LHV6ezaozO.png" width= "30px">
+<img src="https://i.esdrop.com/d/f/kPk8OZq6Wq/fOdgFpG09G.png" width= "30px">
+<img src="https://i.esdrop.com/d/f/kPk8OZq6Wq/dp4JClAlvZ.png" width= "30px">
 
 
 # 팀 노션
