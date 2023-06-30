@@ -16,10 +16,10 @@
 6.24 ~ 7.01|디버그, 추가 기능 구현|
 
 # 팀 노션
-(https://www.notion.so/Main-595f7cc1778747509193e9cefe198ade?pvs=4)
+[6조 노션](https://www.notion.so/Main-595f7cc1778747509193e9cefe198ade?pvs=4)
 
 # 한장 기획서
-<img src: "https://i.esdrop.com/d/f/kPk8OZq6Wq/rspN4WqKX9.png">
+<img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/rspN4WqKX9.png">
 
 
 
