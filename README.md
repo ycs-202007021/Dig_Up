@@ -19,14 +19,14 @@
 6.24 ~ 7.01|디버그, 추가 기능 구현|
 
 # SKILL
-<img src= "[https://en.wikipedia.org/wiki/Unity_%28game_engine%29](https://i.esdrop.com/d/f/kPk8OZq6Wq/2nlPhSjcab.png)">
-<img src= "[https://forum.unity.com/threads/bolt-visual-scripting.482621/](https://i.esdrop.com/d/f/kPk8OZq6Wq/LHV6ezaozO.png)">
-<img src="[(https://commons.wikimedia.org/wiki/File:Notion-logo.svg)](https://i.esdrop.com/d/f/kPk8OZq6Wq/fOdgFpG09G.png)">
-<img src="[https://adamwreed93.medium.com/what-about-github-desktop-8c90a30a72be](https://i.esdrop.com/d/f/kPk8OZq6Wq/dp4JClAlvZ.png)">
+<img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/2nlPhSjcab.png">
+<img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/LHV6ezaozO.png">
+<img src="https://i.esdrop.com/d/f/kPk8OZq6Wq/fOdgFpG09G.png">
+<img src="https://i.esdrop.com/d/f/kPk8OZq6Wq/dp4JClAlvZ.png">
 
 
 # 팀 노션
-[6조 노션](https://www.notion.so/Main-595f7cc1778747509193e9cefe198ade?pvs=4)
+[작업 노션](https://www.notion.so/Main-595f7cc1778747509193e9cefe198ade?pvs=4)
 
 # 한장 기획서
 <img src= "https://i.esdrop.com/d/f/kPk8OZq6Wq/rspN4WqKX9.png">
